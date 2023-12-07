@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Zeref95
+- 👋 Hi, I’m Viktor Niderman
 - 👀 I’m middle full stack developer
 - 🌱 I’m working with Laravel and Vue.js
