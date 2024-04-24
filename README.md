@@ -3,12 +3,10 @@
 📍 Living in Portugal 🇵🇹 and Israel 🇮🇱
 
 🛠️ Skills:
-- **Frontend**: HTML, CSS, JS, Vue.js, Vite, SASS, Bootstrap, Tailwind CSS, Axios, and **Chrome Extensions**.
-- **Backend**: NodeJS, PHP, Laravel, Orchid, MySQL, Stripe, and Redis.
-- **Basics**: Google Cloud, AWS, DigitalOcean, Unix, Apache, Nginx, REST API, Git, and Postman.
+- **Frontend**: HTML, CSS, JS, Vue.js, Vite, SASS, Bootstrap, Axios, and **Chrome Extensions**.
+- **Backend**: PHP, Laravel, Orchid, MySQL, Stripe, NodeJS, and Redis.
+- **Others**: Google Cloud, AWS, DigitalOcean, Unix, Apache, Nginx, REST API, Git, and Postman.
 
 🌟 Always striving to blend creativity and technical skills to create impactful digital solutions!
 
-Feel free to explore my work at [niderman.pro](https://niderman.pro/).
-
-© 2023 Viktor Niderman. All rights reserved.
+© 2024 Viktor Niderman. All rights reserved.
