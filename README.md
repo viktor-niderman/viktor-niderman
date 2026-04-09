@@ -1,12 +1,19 @@
-👋 Hi there, I'm Viktor Niderman!
+# Viktor Niderman
 
-📍 Living in Portugal 🇵🇹 and Israel 🇮🇱
+**Senior Software Engineer · Production Diagnostics · Full-Stack Development**
 
-🛠️ Skills:
-- **Frontend**: HTML, CSS, JS, Vue.js, Vite, SASS, Bootstrap, Axios, and **Chrome Extensions**.
-- **Backend**: PHP, Laravel, Orchid, MySQL, Stripe, NodeJS, and Redis.
-- **Others**: Google Cloud, AWS, DigitalOcean, Unix, Apache, Nginx, REST API, Git, and Postman.
+I work across software engineering, production diagnostics, and system design.
 
-🌟 Always striving to blend creativity and technical skills to create impactful digital solutions!
+My focus is building reliable systems, solving complex real-world issues, and shipping products across the full stack. I’m comfortable moving between frontend, backend, infrastructure, and live production environments — especially when the problem is critical, ambiguous, or difficult to reproduce.
 
-© 2024 Viktor Niderman. All rights reserved.
+I actively use AI in engineering workflows to accelerate development, improve clarity, and automate repetitive work.
+
+## Focus Areas
+- Production diagnostics
+- Full-stack development
+- System design and architecture
+- Infrastructure and delivery
+- AI-assisted engineering
+
+## Working with
+Vue, JavaScript, Vite, PHP, Laravel, MySQL, Node.js, Docker, Nginx, Caddy, AWS, GCP, DigitalOcean, REST APIs, Chrome Extensions, Linux, Git
